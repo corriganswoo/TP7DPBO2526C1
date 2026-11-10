@@ -67,9 +67,28 @@ Aplikasi ini menerapkan **HTTP Request-Response Cycle** standar dengan abstraksi
 ---
 
 ## 📹 Dokumentasi Demonstrasi Aplikasi
-*(Silakan lampirkan link video/screen record atau format GIF uji coba fitur CRUD semua tabel di sini)*
+**Courses**
 
-- **Screen Record Demo**: `[Link Screen Record / GIF]`
+
+https://github.com/user-attachments/assets/16430107-73f2-4aa6-9a19-8caa74820641
+
+**Instructors**
+
+
+https://github.com/user-attachments/assets/0cb27178-348b-4b25-946d-0948f8ffd0af
+
+
+**Students**
+
+
+https://github.com/user-attachments/assets/103c3994-5ea5-4574-96b2-74211272f549
+
+
+**Enrollments**
+
+
+https://github.com/user-attachments/assets/c77b1c9e-a54e-4c9c-ae13-b85835021b4e
+
 
 ---
-*Dibuat untuk Tugas Praktikum DPBO - UPI 2026*
+
